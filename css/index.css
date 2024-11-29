@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Space+Grotesk:wght@300..700&display=swap'); */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Hachi+Maru+Pop&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Space+Grotesk:wght@300..700&display=swap');
+
+
+
+body{
+    /* font-family: "Architects Daughter", cursive; */
+    font-family: "Montserrat", sans-serif;
+
+}
+
+.headerColor{
+    color: rgb(54,60,84);
+    font-size:2rem;
+    font-weight: bold;
+}
